@@ -21,6 +21,7 @@ Art M5 - 06 - Introducción a Machine Learning con Scikit-Learn   (Primeros paso
 
 Art M5 - 09 - Folium (Mapas con Folium)
 
+Canada.xlsx - Sheet1  (Dataset para Art M5 - 09 - Folium)
+
 Art Prophet v2 - Predecir el valor de Bitcoin (usando libreria Prophet)
 
-Canada.xlsx - Sheet1  (Dataset para Art M5 - 09 - Folium)
