@@ -27,6 +27,8 @@ Art Prophet v2 - Predecir el valor de Bitcoin (usando libreria Prophet)
 
 ## 26 oct
 
+- Bases datos ya incluidas mediante links 
+
 Art M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium   (mapas estaciones lanzamiento con Folium)
 
 Art M5 - SPACEX2 - 6 - Machine Learning Predicciones  (Predicciones, matriz confusión)
