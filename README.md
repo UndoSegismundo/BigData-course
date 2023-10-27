@@ -25,3 +25,10 @@ Canada.xlsx - Sheet1  (Dataset para Art M5 - 09 - Folium)
 
 Art Prophet v2 - Predecir el valor de Bitcoin (usando libreria Prophet)
 
+## 26 oct
+
+Art M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium   (mapas estaciones lanzamiento con Folium)
+
+Art M5 - SPACEX2 - 6 - Machine Learning Predicciones  (Predicciones, matriz confusión)
+
+Art SpaceX - 2 - EDA  (Análisis exploratorio Pandas y Numpy)
